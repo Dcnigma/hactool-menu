@@ -54,12 +54,12 @@ chmod +x toolkit.sh
 ./toolkit.sh
 ```
 You will be presented with a menu:
-
+```
 1 Extract NSP/XCI
 2 Browse + Stage
 3 Sync staging → profile
 4 Export Atmosphère ZIP
-
+```
 ## 🧱 Workflow Overview
 1️⃣ Extract NSP/XCI
 Extracts all NCAs
