@@ -36,17 +36,16 @@ exefs/
 brew install dialog zip rsync
 Linux (Debian/Ubuntu)
 bash
-Code kopiëren
 sudo apt install dialog zip rsync
 External tools
 hactool
-
 Nintendo Switch prod.keys
 
 Both must be placed next to the script:
 
 ./hactool
 ./prod.keys
+```bash
 
 ## 🚀 Usage
 Make the script executable:
