@@ -34,15 +34,18 @@ exefs/
 ### macOS (Homebrew)
 ```bash
 brew install dialog zip rsync
-Linux (Debian/Ubuntu)
-bash
+```
+### Linux (Debian/Ubuntu)
+```bash
 sudo apt install dialog zip rsync
-External tools
+```
+### External tools
+```
 hactool
 Nintendo Switch prod.keys
-
+```
 Both must be placed next to the script:
-
+```
 ./hactool
 ./prod.keys
 ```
