@@ -45,7 +45,7 @@ Both must be placed next to the script:
 
 ./hactool
 ./prod.keys
-```bash
+```
 
 ## 🚀 Usage
 Make the script executable:
@@ -101,6 +101,7 @@ Code kopiëren
 <game>_workspace/exports/<profile>.zip
 
 ## 🗃 Directory Structure
+```
 <game>_workspace/
 ├─ container/          # Extracted NSP/XCI contents
 ├─ ncas/
@@ -120,7 +121,7 @@ Code kopiëren
 ├─ info/
 │  └─ titleid.txt
 └─ toolkit.log
-
+```
 ## 📝 Logging & Debugging
 All operations are logged to:
 
