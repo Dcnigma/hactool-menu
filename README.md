@@ -49,9 +49,10 @@ Both must be placed next to the script:
 
 ## 🚀 Usage
 Make the script executable:
-
+```
 chmod +x toolkit.sh
 ./toolkit.sh
+```
 You will be presented with a menu:
 
 1 Extract NSP/XCI
