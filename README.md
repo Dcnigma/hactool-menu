@@ -99,10 +99,9 @@ Builds correct Atmosphère folder structure
 Creates a ZIP with atmosphere/ as root
 
 Output:
-
-php-template
-Code kopiëren
+```
 <game>_workspace/exports/<profile>.zip
+```
 
 ## 🗃 Directory Structure
 ```
